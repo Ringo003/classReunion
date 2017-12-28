@@ -7,11 +7,11 @@ class Registration extends Component {
     return (
 
         <div>
-        <form action="RegPage.">
+        <form action="./pages/RegPage.js">
         <input type="submit" value="Register" />
         </form>
         </div>
-);
-}
+		);
+	}
 }
 export default Registration;
