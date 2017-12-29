@@ -3,18 +3,16 @@ import steer from './styles/Steer2.jpg';
 import './styles/App.css';
 import Login from "./components/login.js";
 import Registration from "./components/Registration.js";
-
+import Header from "./components/Header.js";
 
 
 class Landing extends Component {
   render() {
     return (
+
       <div className="App">
-        <header className="App-header">
-          
-          <h1 className="App-title">Farwell Class of 78</h1>
-          
-        </header>
+       <Header />
+        
         <div className="App-intro">
         Welcome
         </div>

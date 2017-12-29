@@ -14,8 +14,9 @@
 }
 
 .App-header {
+  font-size: 48px;
   background-color: blue;
-  height: 40px;
+  height: 60px;
   padding: 20px;
   color: white;
 
@@ -31,6 +32,10 @@
   margin-top: 40px;
   color: white;
   font-size: 35px;
+}
+
+#UsrData{
+  font-size: 18px;
 }
 
 
