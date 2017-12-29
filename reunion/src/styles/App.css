@@ -3,34 +3,31 @@
 
 
 .App {
-
   text-align: center;
-
 }
 
 .App-logo {
   
-  height: 200px;
+  height: 225px;
 }
 
 .App-header {
   background-color: blue;
-  height: 40px;
+  height: 120px;
   padding: 20px;
   color: white;
 
 }
 
 .App-title {
-  margin-top: 10px;
-  font-size: 50px;
-  margin-bottom: 20px;
+  margin-top: 5px;
+  font-size: 4.5em;
 }
 
 .App-intro {
-  margin-top: 40px;
+
   color: white;
-  font-size: 35px;
+  font-size: 45px;
 }
 
 

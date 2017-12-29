@@ -24,7 +24,7 @@ class Landing extends Component {
         </div>
         <Registration />
         <Login />
-        
+     
       
         
       </div>
